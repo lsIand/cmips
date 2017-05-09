@@ -7,6 +7,6 @@ Java Main class arguments are -gen path\to\inputfile path\to\outputfile (use -as
 E-mail: raimonwintzer@gmail.com || s1302265@sms.ed.ac.uk
 
 MIPS MARS Simulator: http://courses.missouristate.edu/KenVollmar/mars/
-
-\n\n\n\n
+ 
+ 
 *Note: when running code on the MARS simulator, press enter twice after inputting a character, once for newline and once for confirm.*
