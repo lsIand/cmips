@@ -1,6 +1,6 @@
 # Information #
 
-Assignment for the 2016-2017 University of Edinburgh Compiling Techniques course.
+Assignment for the 2016-2017 University of Edinburgh **Compiling Techniques** course.
 
 Compiles a subset of the C language to MIPS. Not featured are: array accesses, struct field accesses, some other stuff probably.
 
